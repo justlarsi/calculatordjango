@@ -1,0 +1,26 @@
+/*.resultArea {*/
+/*    background-color: #000000;*/
+/*    align-content: center;*/
+/*}*/
+
+table{
+    margin-left:auto;
+    margin-right:auto;
+}
+
+.label{
+	display: block;
+ 	margin-bottom: 8px;
+ 	margin-left:auto;
+    margin-right:auto;
+    border-radius: 5px;
+    /*align-content: center;*/
+ }
+
+ button {
+     height: 40px;
+     width: 40px;
+ }
+ .resultArea{
+     background-color: black;
+ }
